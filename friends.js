@@ -5,3 +5,11 @@ for (var i = 0; i < numbers.length; i++){
         console.log(numbers[i])
     }
 }
+
+console.log("=================")
+
+for (var i = 0; i < numbers.length; i++){
+    if (numbers[i] > 60){
+        console.log(numbers[i])
+    }
+}
